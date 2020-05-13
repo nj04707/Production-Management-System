@@ -2,6 +2,9 @@
 
 ## Course Name: Database Management Systems
 
+## Project Partners: 
+Altaf Shaikh, Umme Salma
+
 ## Company Name: 
 Gohar Apparel
 
